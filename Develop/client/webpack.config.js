@@ -12,8 +12,8 @@ module.exports = () => {
     entry: {
       main: "./src/js/index.js",
       install: "./src/js/install.js",
-      header: ".src/js/header.js",
-      editor: ".src/js/editor.js",
+      header: "./src/js/header.js",
+      editor: "./src/js/editor.js",
       database: "./src/js/database.js",
     },
     output: {
