@@ -1,4 +1,8 @@
-# Text Editor Starter Code
+# Progressive Web Application
+
+
+## Overview
+The Progressive Web App (PWA) is a single page application that incorporates various data techniques to ensure it will work offline.  This full stack application is a simple text editor that utilizes the IndexedDB API. 
 
 ## User Story
 
@@ -32,3 +36,9 @@
 * THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 * WHEN I deploy to Heroku
 * THEN I should have proper build scripts for a webpack application
+
+## Heroku URL
+[Heroku Link](https://dashboard.heroku.com/apps/frozen-brook-65340)
+
+## Video Walkthrough
+![Video](/assets/PWA%20Assignment.webm)
