@@ -38,7 +38,7 @@ The Progressive Web App (PWA) is a single page application that incorporates var
 * THEN I should have proper build scripts for a webpack application
 
 ## Heroku URL
-[Heroku Link](https://dashboard.heroku.com/apps/frozen-brook-65340)
+[Heroku Link](https://frozen-brook-65340-9ef8d16d7fc1.herokuapp.com)
 
 ## Video Walkthrough
 ![Video](/assets/PWA%20Assignment.webm)
