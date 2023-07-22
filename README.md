@@ -42,6 +42,7 @@ The Progressive Web App (PWA) is a single page application that incorporates var
 
 ## Screenshots
 ![Picture1](/assets/Picture1.png)
+![Picture4](/assets/Picture4.png)
 ![Picture2](/assets/Picture2.png)
 ![Picture3](/assets/Picture3.png)
 
